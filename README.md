@@ -42,13 +42,4 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IsmailSaleh04&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsmailSaleh04&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <h3 align="center">Building intelligent systems, not just models.</h3>
